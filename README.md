@@ -1,7 +1,6 @@
-# roject Description
-This project s mostly to show how I used some deep learning alorithm for plot delineation
+#  DL_for_field_plot_delineation
 
-## Models
+This project is to extract fields plot from hih resolution satellite imagery
 
 Following models are supported:
 
